@@ -2,7 +2,7 @@
 using namespace std;
 
 //¶þ·Ö·¨
-/*
+
 long long pow_mod2(long long a,long long n,long long m){
 	if(n==0)
 		return 1;
@@ -11,7 +11,7 @@ long long pow_mod2(long long a,long long n,long long m){
 	if(n%2==1)
 		ans=ans*a%m;
 	return ans;
-}*/
+}
 
 long long pow_mod(long long a,long long n,long long m){
 	if(a==0)
