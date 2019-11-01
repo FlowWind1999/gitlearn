@@ -27,5 +27,3 @@ fs.write(content)
 fs.close()
 content=content.decode("utf8")
 print(content)
-
-print(time.time())
