@@ -26,4 +26,6 @@ fs=open("www.txt","wb")
 fs.write(content)
 fs.close()
 content=content.decode("utf8")
-print(content)
+print(content,"\n")
+
+
